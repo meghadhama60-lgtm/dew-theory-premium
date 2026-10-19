@@ -1,0 +1,15 @@
+DEW THEORY — QUICK START (WINDOWS)
+
+1. Extract the ZIP file.
+2. Open the extracted dew-theory-premium folder.
+3. Make sure Node.js is installed on your PC.
+4. Double-click START-WINDOWS.bat.
+5. When the terminal prints a Local URL (usually http://localhost:5173/), open it in your browser.
+
+If Windows blocks the .bat file, open this folder in VS Code, choose Terminal > New Terminal, then run:
+  npm install
+  npm run dev
+
+Do not close the terminal while using the local website.
+
+This is a front-end demo. Checkout is not connected to a payment gateway.
